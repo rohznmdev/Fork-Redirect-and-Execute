@@ -1,0 +1,8 @@
+Instructions:
+Run:
+    1. First type make in the command line to create the executable file.
+    2. Then type ./forkRedirectExecute to start the program.
+    3. Then start typying your command along with any associated files.
+    4. To exit the program, type exit.
+Clean:
+    1. To remove all executables and object code, type make clean.
